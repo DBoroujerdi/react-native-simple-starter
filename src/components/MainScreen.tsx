@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, View, SafeAreaView} from 'react-native';
+import {Text, SafeAreaView} from 'react-native';
 
 function MainScreen() {
   return (
